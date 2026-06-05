@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+nextfaucet_config.json
+*.log
