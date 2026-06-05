@@ -1,4 +1,5 @@
 requests
-numpy
 opencv-python-headless
+numpy
 Pillow
+urllib3
